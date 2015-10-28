@@ -1,0 +1,24 @@
+{
+  "name": "couchdb-cors-config",
+  "version": "1.0.0",
+  "description": "CouchDB CORS configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo/couchdb-cors-config.git"
+  },
+  "keywords": [
+    "couchdb",
+    "cors",
+    "config"
+  ],
+  "author": "Johannes J. Schmidt",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jo/couchdb-cors-config/issues"
+  },
+  "homepage": "https://github.com/jo/couchdb-cors-config#readme"
+}
